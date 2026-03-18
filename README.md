@@ -15,7 +15,7 @@ Advanced renaming and scene organization utility for Autodesk Maya.
 
 ## Installation
 
-1. Copy the code from `maya_easy_renamer.py`.
+1. Copy the code from `mayaEasyRenamer.py`.
 2. Open the **Script Editor** in Maya and paste the code into a **Python** tab.
 3. Highlight the code and drag it to your **Shelf** to create a shortcut icon.
 
