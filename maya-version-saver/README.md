@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/versionSaver_logo.png" alt="Maya Version Saver logo" width="400"/>
+  <img src="assets/logo.png" alt="Maya Version Saver logo" width="400"/>
 </p>
 
 <h1 align="center">Maya Version Saver</h1>
@@ -12,7 +12,7 @@
 
 ### Main Window
 <p align="center">
-  <img src="assets/versionSaver_mainScreen.png" alt="Main Window" width="700">
+  <img src="assets/mainScreen.png" alt="Main Window" width="700">
 </p>
 
 ## Features
